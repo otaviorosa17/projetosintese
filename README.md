@@ -1,1 +1,1 @@
-# projetosintese2
+# Projeto trilha básica HTML/CSS
